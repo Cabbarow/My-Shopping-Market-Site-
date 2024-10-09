@@ -1,0 +1,65 @@
+// iller-ve-ilceler.js
+export const illerVeIlceler = [
+  {
+    il: "Adana",
+    ilceler: [
+      "Aladağ",
+      "Ceyhan",
+      "Çukurova",
+      "Feke",
+      "İmamoğlu",
+      "Karataş",
+      "Karaisalı",
+      "Kozan",
+      "Pozantı",
+      "Saimbeyli",
+      "Seyhan",
+      "Yumurtalık",
+    ],
+  },
+  {
+    il: "Adıyaman",
+    ilceler: [
+      "Besni",
+      "Çelikhan",
+      "Gerger",
+      "Gölbaşı",
+      "Kahta",
+      "Samsat",
+      "Sincik",
+      "Tut",
+    ],
+  },
+  {
+    il: "Afyonkarahisar",
+    ilceler: [
+      "Afyonkarahisar Merkez",
+      "Bolvadin",
+      "Çay",
+      "Çobanlar",
+      "Dazkırı",
+      "Dinar",
+      "Evciler",
+      "Hocalar",
+      "İhsaniye",
+      "Kızılören",
+      "Sandıklı",
+      "Suhut",
+      "Şuhut",
+    ],
+  },
+  // Diğer iller ve ilçeleri...
+  {
+    il: "Zonguldak",
+    ilceler: [
+      "Alaplı",
+      "Çaycuma",
+      "Devrek",
+      "Ereğli",
+      "Gökçebey",
+      "Karadeniz Ereğli",
+      "Kilimli",
+      "Zonguldak Merkez",
+    ],
+  },
+];
